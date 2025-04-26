@@ -130,7 +130,7 @@
 <body>
 
   <div class="card">
-<img src="https://i.ibb.co/SDZcLBVr/file-00000000339061f7a81189d1b9b632ad-conversation-id-67fa21ca-4c78-8013-a372-baa0ad497cb5-message-i.png" alt="file-00000000339061f7a81189d1b9b632ad-conversation-id-67fa21ca-4c78-8013-a372-baa0ad497cb5-message-i"  /></a>
+
     <h2>Jaaed Kureshi</h2>
     <h4>Programmer</h4>
     <p>I build things for the web with code, creativity, and curiosity. Passionate about clean UI, sharp logic, and impactful experiences.</p>
